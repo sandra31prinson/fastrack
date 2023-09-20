@@ -7,6 +7,7 @@
 
 .header{ background-color:#000000; padding-top:20px;}
 .header h6{color:#a8a8a8; display:inline; padding:20px;}
+.header h6:hover{color: aqua;}
 .header a{ text-decoration:none;}
 
 /*SECTION.....................*/
@@ -77,3 +78,4 @@ video{height:100%; width:100%;}
 
 
 .footer p{color:#DDDBDB; text-align:left; padding-top:7px;}
+
